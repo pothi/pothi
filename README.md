@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pothi
-- 👀 I work with servers, networking, WordPress, etc.
-- 🌱 I’m currently learning about MikroTik products.
+- 👀 I work with servers, WordPress, networking with MikroTik products, etc.
+- 🌱 I’m currently learning about Caddy, FrankenPHP, etc.
 - 💞️ I’m looking to collaborate on server-side projects!
 - 📫 You can reach me on twitter(@pothi) or email me by my first name (Github username @pothi) @protonmail.com, @duck.com, @riseup.net, etc.
 
